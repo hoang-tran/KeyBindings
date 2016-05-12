@@ -68,6 +68,26 @@
 			</dict>
 			<dict>
 				<key>Action</key>
+				<string>showInspectorWithChoiceFromSender:</string>
+				<key>Alternate</key>
+				<string>NO</string>
+				<key>CommandID</key>
+				<string>Xcode.IDEKit.InspectorCategory.QuickHelp</string>
+				<key>Group</key>
+				<string>View Menu</string>
+				<key>GroupID</key>
+				<string>Xcode.IDEKit.MenuDefinition.Utilities</string>
+				<key>GroupedAlternate</key>
+				<string>NO</string>
+				<key>Navigation</key>
+				<string>NO</string>
+				<key>Parent Title</key>
+				<string>Utilities</string>
+				<key>Title</key>
+				<string>Show Quick Help Inspector</string>
+			</dict>
+			<dict>
+				<key>Action</key>
 				<string>indentSelection:</string>
 				<key>Alternate</key>
 				<string>NO</string>

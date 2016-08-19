@@ -1,10 +1,7 @@
 ## Installation
 
-Go to `~/Library/Developer/Xcode/UserData`
+1. Go to `~/Library/Developer/Xcode/UserData`
 
-Run
-```sh
-git clone git@github.com:hoang-tran/KeyBindings.git
-```
+2. Run `git clone git@github.com:hoang-tran/KeyBindings.git`
 
-Restart XCode
+3. Restart XCode
